@@ -1,9 +1,9 @@
 # intership_test
 Приложение, которое симулирует и визуализирует распросранение инфекции в группе людей.
 ## Скриншоты
-<img src="https://github.com/NickaKos11/vk_test/assets/74317085/9a6e1b9c-2e2f-49a7-bb61-900461b30103" width="380">
-<img src="https://github.com/NickaKos11/vk_test/assets/74317085/59a8faca-ecfb-4629-9052-5a7af4d3abc4" width="380">
-<img src="https://github.com/NickaKos11/vk_test/assets/74317085/795852f0-9763-44c3-82ac-875103b02fda" width="380">
+<img src="https://github.com/NickaKos11/vk_test/assets/74317085/74b2372f-d265-412b-b097-b247d26fc65a" width="380">
+<img src="https://github.com/NickaKos11/vk_test/assets/74317085/5b83254f-efda-4ea9-a773-3f01c766b8c4" width="380">
+<img src="https://github.com/NickaKos11/vk_test/assets/74317085/d04e88e4-271e-4860-bedf-8d5b7f55b42a" width="380">
 
 ## Используемые технологии
 - Верстка кодом с использованием NSLayoutConstraint
